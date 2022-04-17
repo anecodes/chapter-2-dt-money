@@ -1,4 +1,4 @@
-# DT Money
+# DT Money 💰
 Aplicação desenvolvida na Chapter II do curso Ignite da Rocketseat, na qual foi construída uma dashboard de planejamento financeiro, na qual é possível inserir operações de entrada e saída de dinheiro. Essa aplicação foi feita como um plano de aprendizado das seguintes funcionalidades: **componentização e hierarquia de componentes, consumo de API com Mirage JS, estruturação e estilização de modais com React.js, compartilhamento de estado entre componentes com o Context API e criação de Hooks.** 🚀
 
 ## Tecnologias utilizadas no projeto:
