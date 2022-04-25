@@ -12,7 +12,7 @@ Aplicação desenvolvida na Chapter II do curso Ignite da Rocketseat, na qual fo
 ## Rodando o projeto
 1. Para rodar o projeto na sua máquina, clone o repositório do Github e digite no terminal:
 ```
-git clone https://github.com/anecodes/01-github-explorer/
+git clone https://github.com/anecodes/chapter-2-dt-money
 
 ```
 2. Em seguida, instale as dependências do projeto com:
